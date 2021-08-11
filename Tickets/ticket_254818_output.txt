@@ -1,0 +1,845 @@
+API is working. status code: 200
+
+Data stream id: 4180583
+
+Data stream id: 3974827
+
+Data stream id: 3971565
+
+Data stream id: 3970929
+
+Data stream id: 3974245
+
+Data stream id: 3970955
+
+Data stream id: 3970928
+
+Data stream id: 3968207
+
+Data stream id: 3974243
+
+Data stream id: 3970683
+
+Data stream id: 3973882
+
+Data stream id: 3968654
+
+Data stream id: 3974905
+
+Data stream id: 3973808
+
+Data stream id: 3973838
+-- Stat: 381868732 has a status of IN_PROGRESS and was executed on 2021-06-04
+-- Stat: 381868733 has a status of IN_PROGRESS and was executed on 2021-06-14
+-- Stat: 381868734 has a status of IN_PROGRESS and was executed on 2021-06-24
+-- Stat: 381868735 has a status of IN_PROGRESS and was executed on 2021-07-04
+
+Data stream id: 3973840
+-- Stat: 381869024 has a status of IN_PROGRESS and was executed on 2021-06-04
+-- Stat: 381869025 has a status of IN_PROGRESS and was executed on 2021-06-14
+-- Stat: 381869026 has a status of IN_PROGRESS and was executed on 2021-06-24
+-- Stat: 381869027 has a status of FAILURE and was executed on 2021-07-04
+-- Stat: 381980684 has a status of PENDING and was executed on 2021-07-13
+
+Data stream id: 3971822
+
+Data stream id: 3968648
+
+Data stream id: 4180532
+-- Stat: 382013167 has a status of PENDING and was executed on 2021-06-16
+-- Stat: 382013168 has a status of PENDING and was executed on 2021-06-26
+
+Data stream id: 4180604
+
+Data stream id: 4180531
+-- Stat: 382013157 has a status of PENDING and was executed on 2021-06-06
+
+Data stream id: 4180603
+
+Data stream id: 3974201
+-- Stat: 360553155 has a status of FAILURE and was executed on 2021-06-01
+-- Stat: 361061127 has a status of FAILURE and was executed on 2021-06-02
+-- Stat: 361570646 has a status of FAILURE and was executed on 2021-06-03
+-- Stat: 362087869 has a status of FAILURE and was executed on 2021-06-04
+-- Stat: 362611573 has a status of FAILURE and was executed on 2021-06-05
+-- Stat: 363160682 has a status of FAILURE and was executed on 2021-06-06
+-- Stat: 366973929 has a status of FAILURE and was executed on 2021-06-13
+-- Stat: 367523599 has a status of FAILURE and was executed on 2021-06-14
+-- Stat: 368064229 has a status of FAILURE and was executed on 2021-06-15
+-- Stat: 368704132 has a status of FAILURE and was executed on 2021-06-16
+-- Stat: 369264876 has a status of FAILURE and was executed on 2021-06-17
+-- Stat: 369407068 has a status of FAILURE and was executed on 2021-06-07
+-- Stat: 369407076 has a status of FAILURE and was executed on 2021-06-18
+-- Stat: 369833417 has a status of FAILURE and was executed on 2021-06-19
+-- Stat: 369833421 has a status of FAILURE and was executed on 2021-06-08
+-- Stat: 369885987 has a status of FAILURE and was executed on 2021-06-09
+-- Stat: 369885991 has a status of FAILURE and was executed on 2021-06-20
+-- Stat: 370428606 has a status of FAILURE and was executed on 2021-06-21
+-- Stat: 370428610 has a status of FAILURE and was executed on 2021-06-10
+-- Stat: 371059956 has a status of FAILURE and was executed on 2021-06-11
+-- Stat: 371059957 has a status of FAILURE and was executed on 2021-06-22
+-- Stat: 372194171 has a status of FAILURE and was executed on 2021-06-23
+-- Stat: 373395940 has a status of FAILURE and was executed on 2021-06-24
+-- Stat: 374038910 has a status of FAILURE and was executed on 2021-06-25
+-- Stat: 374637456 has a status of FAILURE and was executed on 2021-06-26
+-- Stat: 375272924 has a status of FAILURE and was executed on 2021-06-27
+-- Stat: 375845722 has a status of FAILURE and was executed on 2021-06-28
+-- Stat: 376412089 has a status of FAILURE and was executed on 2021-06-29
+-- Stat: 377021020 has a status of FAILURE and was executed on 2021-06-30
+-- Stat: 377723753 has a status of FAILURE and was executed on 2021-07-01
+-- Stat: 378349597 has a status of FAILURE and was executed on 2021-07-02
+-- Stat: 378950875 has a status of FAILURE and was executed on 2021-07-03
+-- Stat: 379567885 has a status of FAILURE and was executed on 2021-07-04
+-- Stat: 380129782 has a status of FAILURE and was executed on 2021-07-05
+-- Stat: 380719784 has a status of FAILURE and was executed on 2021-07-06
+-- Stat: 381318059 has a status of FAILURE and was executed on 2021-07-07
+-- Stat: 381921146 has a status of FAILURE and was executed on 2021-07-13
+-- Stat: 381921676 has a status of FAILURE and was executed on 2021-07-12
+-- Stat: 381921690 has a status of FAILURE and was executed on 2021-07-10
+
+Data stream id: 4180533
+
+Data stream id: 4180585
+
+Data stream id: 4180560
+
+Data stream id: 4168014
+
+Data stream id: 4168035
+
+Data stream id: 4050433
+
+Data stream id: 4050440
+
+Data stream id: 4169039
+
+Data stream id: 4169038
+
+Data stream id: 4168766
+
+Data stream id: 4168508
+-- Stat: 377084126 has a status of FAILURE and was executed on 2021-06-06
+-- Stat: 377084127 has a status of FAILURE and was executed on 2021-06-16
+
+Data stream id: 4168147
+
+Data stream id: 4168097
+
+Data stream id: 4168007
+
+Data stream id: 4167979
+
+Data stream id: 4164968
+
+Data stream id: 4164113
+
+Data stream id: 3971136
+-- Stat: 381728363 has a status of FAILURE and was executed on 2021-07-03
+-- Stat: 381816144 has a status of PENDING and was executed on 2021-06-04
+-- Stat: 381816145 has a status of PENDING and was executed on 2021-06-14
+-- Stat: 381816146 has a status of PENDING and was executed on 2021-06-24
+-- Stat: 381816147 has a status of PENDING and was executed on 2021-07-04
+
+Data stream id: 4160324
+
+Data stream id: 4159159
+
+Data stream id: 3974911
+-- Stat: 381980995 has a status of PENDING and was executed on 2021-07-13
+
+Data stream id: 3974830
+-- Stat: 381953229 has a status of PENDING and was executed on 2021-07-13
+
+Data stream id: 3971096
+
+Data stream id: 3971058
+
+Data stream id: 3973835
+
+Data stream id: 3973843
+-- Stat: 380055190 has a status of IN_PROGRESS and was executed on 2021-07-10
+
+Data stream id: 3971829
+
+Data stream id: 3971828
+
+Data stream id: 3967501
+
+Data stream id: 3968551
+
+Data stream id: 3959271
+
+Data stream id: 3959187
+
+Data stream id: 3974179
+-- Stat: 381868619 has a status of IN_PROGRESS and was executed on 2021-06-04
+-- Stat: 381868620 has a status of IN_PROGRESS and was executed on 2021-06-14
+-- Stat: 381868622 has a status of IN_PROGRESS and was executed on 2021-06-24
+-- Stat: 381868623 has a status of IN_PROGRESS and was executed on 2021-07-04
+-- Stat: 381890877 has a status of IN_PROGRESS and was executed on 2021-07-13
+
+Data stream id: 3973810
+
+Data stream id: 3974834
+
+Data stream id: 3974856
+
+Data stream id: 4157696
+-- Stat: 380055360 has a status of IN_PROGRESS and was executed on 2021-07-10
+
+Data stream id: 3974181
+-- Stat: 381890891 has a status of IN_PROGRESS and was executed on 2021-07-13
+
+Data stream id: 3974562
+-- Stat: 381953090 has a status of PENDING and was executed on 2021-07-13
+
+Data stream id: 4035856
+
+Data stream id: 4012031
+-- Stat: 380055341 has a status of IN_PROGRESS and was executed on 2021-07-10
+
+Data stream id: 3974226
+
+Data stream id: 3974895
+-- Stat: 381953697 has a status of PENDING and was executed on 2021-07-13
+
+Data stream id: 3970713
+
+Data stream id: 3971108
+
+Data stream id: 3974564
+-- Stat: 381953072 has a status of PENDING and was executed on 2021-07-13
+
+Data stream id: 3974897
+
+Data stream id: 3974849
+
+Data stream id: 3959623
+
+Data stream id: 3974149
+
+Data stream id: 3974914
+-- Stat: 381981067 has a status of PENDING and was executed on 2021-07-13
+
+Data stream id: 3974333
+
+Data stream id: 3974544
+-- Stat: 369407088 has a status of FAILURE and was executed on 2021-06-14
+-- Stat: 369407090 has a status of FAILURE and was executed on 2021-06-13
+-- Stat: 369407161 has a status of FAILURE and was executed on 2021-06-16
+-- Stat: 369419601 has a status of FAILURE and was executed on 2021-06-22
+-- Stat: 381980850 has a status of PENDING and was executed on 2021-07-13
+
+Data stream id: 3970983
+-- Stat: 369406870 has a status of FAILURE and was executed on 2021-06-14
+-- Stat: 369406871 has a status of FAILURE and was executed on 2021-06-13
+-- Stat: 369406943 has a status of FAILURE and was executed on 2021-06-16
+-- Stat: 369419600 has a status of FAILURE and was executed on 2021-06-22
+-- Stat: 381980764 has a status of PENDING and was executed on 2021-07-13
+
+Data stream id: 3979270
+-- Stat: 381981188 has a status of PENDING and was executed on 2021-07-13
+
+Data stream id: 3979266
+-- Stat: 381981171 has a status of PENDING and was executed on 2021-07-13
+
+Data stream id: 3974281
+
+Data stream id: 3974241
+
+Data stream id: 3974939
+
+Data stream id: 3974934
+-- Stat: 381981151 has a status of PENDING and was executed on 2021-07-13
+
+Data stream id: 3974932
+-- Stat: 381981184 has a status of PENDING and was executed on 2021-07-13
+
+Data stream id: 3974929
+
+Data stream id: 3974922
+
+Data stream id: 3974920
+
+Data stream id: 3974917
+-- Stat: 381981058 has a status of PENDING and was executed on 2021-07-13
+
+Data stream id: 3974910
+
+Data stream id: 3974903
+-- Stat: 381980935 has a status of PENDING and was executed on 2021-07-13
+
+Data stream id: 3974901
+-- Stat: 381953274 has a status of PENDING and was executed on 2021-07-13
+
+Data stream id: 3974854
+
+Data stream id: 3974853
+-- Stat: 381953255 has a status of PENDING and was executed on 2021-07-13
+
+Data stream id: 3974850
+
+Data stream id: 3974842
+
+Data stream id: 3974832
+-- Stat: 381953224 has a status of PENDING and was executed on 2021-07-13
+
+Data stream id: 3974824
+-- Stat: 381953205 has a status of PENDING and was executed on 2021-07-13
+
+Data stream id: 3974823
+-- Stat: 381953201 has a status of PENDING and was executed on 2021-07-13
+
+Data stream id: 3974820
+
+Data stream id: 3974817
+
+Data stream id: 3974795
+-- Stat: 381953122 has a status of PENDING and was executed on 2021-07-13
+
+Data stream id: 3974793
+-- Stat: 381953121 has a status of PENDING and was executed on 2021-07-13
+
+Data stream id: 3974785
+
+Data stream id: 3974778
+-- Stat: 381953133 has a status of PENDING and was executed on 2021-07-13
+
+Data stream id: 3974558
+-- Stat: 381953109 has a status of PENDING and was executed on 2021-07-13
+
+Data stream id: 3974556
+-- Stat: 381953083 has a status of PENDING and was executed on 2021-07-13
+
+Data stream id: 3974552
+-- Stat: 381953069 has a status of PENDING and was executed on 2021-07-13
+
+Data stream id: 3974548
+
+Data stream id: 3974527
+
+Data stream id: 3974522
+
+Data stream id: 3974269
+
+Data stream id: 3974268
+
+Data stream id: 3974264
+
+Data stream id: 3974256
+
+Data stream id: 3974255
+-- Stat: 381921218 has a status of IN_PROGRESS and was executed on 2021-07-13
+
+Data stream id: 3974254
+-- Stat: 381869268 has a status of IN_PROGRESS and was executed on 2021-06-04
+-- Stat: 381869269 has a status of IN_PROGRESS and was executed on 2021-06-14
+-- Stat: 381869270 has a status of IN_PROGRESS and was executed on 2021-06-24
+-- Stat: 381869271 has a status of IN_PROGRESS and was executed on 2021-07-04
+-- Stat: 381921212 has a status of IN_PROGRESS and was executed on 2021-07-13
+
+Data stream id: 3974249
+-- Stat: 381921208 has a status of IN_PROGRESS and was executed on 2021-07-13
+
+Data stream id: 3974246
+-- Stat: 381921197 has a status of IN_PROGRESS and was executed on 2021-07-13
+
+Data stream id: 3974244
+
+Data stream id: 3974221
+-- Stat: 381815976 has a status of FAILURE and was executed on 2021-06-04
+-- Stat: 381815977 has a status of FAILURE and was executed on 2021-06-14
+-- Stat: 381815978 has a status of FAILURE and was executed on 2021-06-24
+-- Stat: 381815979 has a status of FAILURE and was executed on 2021-07-04
+-- Stat: 381921164 has a status of IN_PROGRESS and was executed on 2021-07-13
+
+Data stream id: 3974219
+-- Stat: 381862155 has a status of IN_PROGRESS and was executed on 2021-06-04
+-- Stat: 381862157 has a status of IN_PROGRESS and was executed on 2021-06-14
+-- Stat: 381862158 has a status of IN_PROGRESS and was executed on 2021-06-24
+-- Stat: 381862159 has a status of IN_PROGRESS and was executed on 2021-07-04
+-- Stat: 381921150 has a status of IN_PROGRESS and was executed on 2021-07-13
+
+Data stream id: 3974216
+-- Stat: 381921615 has a status of IN_PROGRESS and was executed on 2021-06-04
+-- Stat: 381921618 has a status of IN_PROGRESS and was executed on 2021-06-14
+-- Stat: 381921623 has a status of IN_PROGRESS and was executed on 2021-06-24
+-- Stat: 381921628 has a status of IN_PROGRESS and was executed on 2021-07-04
+
+Data stream id: 3974211
+-- Stat: 381862585 has a status of FAILURE and was executed on 2021-06-04
+-- Stat: 381862587 has a status of FAILURE and was executed on 2021-06-14
+-- Stat: 381862588 has a status of FAILURE and was executed on 2021-06-24
+-- Stat: 381862589 has a status of IN_PROGRESS and was executed on 2021-07-04
+-- Stat: 381921157 has a status of IN_PROGRESS and was executed on 2021-07-13
+
+Data stream id: 3974203
+-- Stat: 381921153 has a status of IN_PROGRESS and was executed on 2021-07-13
+
+Data stream id: 3974199
+-- Stat: 381921435 has a status of FAILURE and was executed on 2021-06-04
+-- Stat: 381921438 has a status of FAILURE and was executed on 2021-06-14
+-- Stat: 381921443 has a status of FAILURE and was executed on 2021-06-24
+-- Stat: 381921444 has a status of FAILURE and was executed on 2021-07-04
+
+Data stream id: 3974197
+-- Stat: 381921173 has a status of IN_PROGRESS and was executed on 2021-07-13
+
+Data stream id: 3974194
+-- Stat: 381921149 has a status of IN_PROGRESS and was executed on 2021-07-13
+
+Data stream id: 3974190
+-- Stat: 381921143 has a status of IN_PROGRESS and was executed on 2021-07-13
+-- Stat: 381977880 has a status of PENDING and was executed on 2021-07-13
+-- Stat: 381978214 has a status of PENDING and was executed on 2021-07-13
+
+Data stream id: 3974188
+-- Stat: 381890956 has a status of IN_PROGRESS and was executed on 2021-07-13
+
+Data stream id: 3974183
+-- Stat: 381868912 has a status of FAILURE and was executed on 2021-06-04
+-- Stat: 381868913 has a status of FAILURE and was executed on 2021-06-14
+-- Stat: 381868914 has a status of FAILURE and was executed on 2021-06-24
+-- Stat: 381868915 has a status of FAILURE and was executed on 2021-07-04
+-- Stat: 381890908 has a status of IN_PROGRESS and was executed on 2021-07-13
+
+Data stream id: 3974180
+
+Data stream id: 3974175
+-- Stat: 381869156 has a status of IN_PROGRESS and was executed on 2021-06-04
+-- Stat: 381869157 has a status of IN_PROGRESS and was executed on 2021-06-14
+-- Stat: 381869158 has a status of IN_PROGRESS and was executed on 2021-06-24
+-- Stat: 381869159 has a status of IN_PROGRESS and was executed on 2021-07-04
+-- Stat: 381890875 has a status of IN_PROGRESS and was executed on 2021-07-13
+
+Data stream id: 3974173
+-- Stat: 381890886 has a status of IN_PROGRESS and was executed on 2021-07-13
+
+Data stream id: 3974169
+-- Stat: 381890857 has a status of IN_PROGRESS and was executed on 2021-07-13
+
+Data stream id: 3974168
+-- Stat: 381890846 has a status of IN_PROGRESS and was executed on 2021-07-13
+
+Data stream id: 3974166
+-- Stat: 381890850 has a status of IN_PROGRESS and was executed on 2021-07-13
+
+Data stream id: 3974165
+
+Data stream id: 3974163
+-- Stat: 372889380 has a status of FAILURE and was executed on 2021-06-04
+-- Stat: 372889381 has a status of FAILURE and was executed on 2021-06-07
+
+Data stream id: 3974158
+-- Stat: 381890863 has a status of IN_PROGRESS and was executed on 2021-07-13
+
+Data stream id: 3974146
+
+Data stream id: 3974103
+-- Stat: 381890780 has a status of IN_PROGRESS and was executed on 2021-07-13
+
+Data stream id: 3970665
+-- Stat: 381890768 has a status of IN_PROGRESS and was executed on 2021-07-13
+
+Data stream id: 3974142
+-- Stat: 381890774 has a status of IN_PROGRESS and was executed on 2021-07-13
+
+Data stream id: 3974102
+-- Stat: 381890767 has a status of IN_PROGRESS and was executed on 2021-07-13
+
+Data stream id: 3973933
+-- Stat: 381890770 has a status of IN_PROGRESS and was executed on 2021-07-13
+
+Data stream id: 3973940
+-- Stat: 381890779 has a status of IN_PROGRESS and was executed on 2021-07-13
+
+Data stream id: 3973948
+
+Data stream id: 3973944
+-- Stat: 381890795 has a status of IN_PROGRESS and was executed on 2021-07-13
+
+Data stream id: 3973931
+
+Data stream id: 3974137
+-- Stat: 381890764 has a status of IN_PROGRESS and was executed on 2021-07-13
+
+Data stream id: 3973921
+
+Data stream id: 3973847
+
+Data stream id: 3973798
+
+Data stream id: 3973783
+
+Data stream id: 3974072
+
+Data stream id: 3973943
+
+Data stream id: 3973924
+
+Data stream id: 3973919
+-- Stat: 369419598 has a status of FAILURE and was executed on 2021-06-22
+-- Stat: 369419608 has a status of FAILURE and was executed on 2021-06-13
+-- Stat: 369419609 has a status of FAILURE and was executed on 2021-06-14
+-- Stat: 369419657 has a status of FAILURE and was executed on 2021-06-16
+-- Stat: 381980765 has a status of PENDING and was executed on 2021-07-13
+
+Data stream id: 3973910
+
+Data stream id: 3973891
+
+Data stream id: 3973885
+
+Data stream id: 3973877
+
+Data stream id: 3973875
+
+Data stream id: 3973856
+
+Data stream id: 3973831
+
+Data stream id: 3973827
+
+Data stream id: 3973822
+
+Data stream id: 3973820
+
+Data stream id: 3973819
+
+Data stream id: 3973818
+
+Data stream id: 3973802
+
+Data stream id: 3973797
+
+Data stream id: 3973793
+
+Data stream id: 3973789
+
+Data stream id: 3971823
+
+Data stream id: 3971812
+
+Data stream id: 3970727
+
+Data stream id: 3970722
+
+Data stream id: 3970716
+
+Data stream id: 3970711
+
+Data stream id: 3970709
+
+Data stream id: 3970708
+
+Data stream id: 3970703
+
+Data stream id: 3970695
+
+Data stream id: 3970685
+
+Data stream id: 3970672
+
+Data stream id: 3970660
+
+Data stream id: 3970658
+-- Stat: 381869212 has a status of IN_PROGRESS and was executed on 2021-06-04
+-- Stat: 381869213 has a status of IN_PROGRESS and was executed on 2021-06-14
+-- Stat: 381869214 has a status of IN_PROGRESS and was executed on 2021-06-24
+-- Stat: 381869215 has a status of IN_PROGRESS and was executed on 2021-07-04
+
+Data stream id: 3970656
+-- Stat: 381868676 has a status of IN_PROGRESS and was executed on 2021-06-04
+-- Stat: 381868677 has a status of IN_PROGRESS and was executed on 2021-06-14
+-- Stat: 381868678 has a status of IN_PROGRESS and was executed on 2021-06-24
+-- Stat: 381868679 has a status of IN_PROGRESS and was executed on 2021-07-04
+
+Data stream id: 3970655
+
+Data stream id: 3970652
+-- Stat: 381868968 has a status of FAILURE and was executed on 2021-06-04
+-- Stat: 381868969 has a status of FAILURE and was executed on 2021-06-14
+-- Stat: 381868970 has a status of FAILURE and was executed on 2021-06-24
+-- Stat: 381868971 has a status of FAILURE and was executed on 2021-07-04
+
+Data stream id: 3970649
+-- Stat: 381977879 has a status of PENDING and was executed on 2021-07-13
+-- Stat: 381978213 has a status of PENDING and was executed on 2021-07-13
+
+Data stream id: 3970647
+-- Stat: 360412338 has a status of FAILURE and was executed on 2021-06-01
+-- Stat: 360918852 has a status of FAILURE and was executed on 2021-06-02
+-- Stat: 361433165 has a status of FAILURE and was executed on 2021-06-03
+-- Stat: 361953503 has a status of FAILURE and was executed on 2021-06-04
+-- Stat: 362473719 has a status of FAILURE and was executed on 2021-06-05
+-- Stat: 363018135 has a status of FAILURE and was executed on 2021-06-06
+-- Stat: 365311755 has a status of FAILURE and was executed on 2021-06-07
+-- Stat: 365701176 has a status of FAILURE and was executed on 2021-06-08
+-- Stat: 366269176 has a status of FAILURE and was executed on 2021-06-09
+-- Stat: 366269177 has a status of FAILURE and was executed on 2021-06-13
+-- Stat: 366830428 has a status of FAILURE and was executed on 2021-06-14
+-- Stat: 366830431 has a status of FAILURE and was executed on 2021-06-10
+-- Stat: 367391930 has a status of FAILURE and was executed on 2021-06-15
+-- Stat: 367391932 has a status of FAILURE and was executed on 2021-06-11
+-- Stat: 368482204 has a status of FAILURE and was executed on 2021-06-16
+-- Stat: 368811316 has a status of FAILURE and was executed on 2021-06-17
+-- Stat: 369124585 has a status of FAILURE and was executed on 2021-06-18
+-- Stat: 369404274 has a status of FAILURE and was executed on 2021-06-19
+-- Stat: 369409364 has a status of FAILURE and was executed on 2021-06-20
+-- Stat: 369688966 has a status of FAILURE and was executed on 2021-06-21
+-- Stat: 370915255 has a status of FAILURE and was executed on 2021-06-22
+-- Stat: 372671075 has a status of FAILURE and was executed on 2021-06-23
+-- Stat: 373249822 has a status of FAILURE and was executed on 2021-06-24
+-- Stat: 373864211 has a status of FAILURE and was executed on 2021-06-25
+-- Stat: 374495286 has a status of FAILURE and was executed on 2021-06-26
+-- Stat: 375103152 has a status of FAILURE and was executed on 2021-06-27
+-- Stat: 375709991 has a status of FAILURE and was executed on 2021-06-28
+-- Stat: 376264971 has a status of FAILURE and was executed on 2021-06-29
+-- Stat: 376855653 has a status of FAILURE and was executed on 2021-06-30
+-- Stat: 377470510 has a status of FAILURE and was executed on 2021-07-01
+-- Stat: 378154226 has a status of FAILURE and was executed on 2021-07-02
+-- Stat: 378790739 has a status of FAILURE and was executed on 2021-07-03
+-- Stat: 379398302 has a status of FAILURE and was executed on 2021-07-04
+-- Stat: 379989785 has a status of FAILURE and was executed on 2021-07-05
+-- Stat: 380553497 has a status of FAILURE and was executed on 2021-07-06
+-- Stat: 381152820 has a status of FAILURE and was executed on 2021-07-07
+-- Stat: 381777490 has a status of FAILURE and was executed on 2021-07-13
+-- Stat: 381777604 has a status of FAILURE and was executed on 2021-07-09
+-- Stat: 381777605 has a status of FAILURE and was executed on 2021-07-10
+
+Data stream id: 3970645
+-- Stat: 381862877 has a status of IN_PROGRESS and was executed on 2021-06-04
+-- Stat: 381862878 has a status of IN_PROGRESS and was executed on 2021-06-14
+-- Stat: 381862879 has a status of IN_PROGRESS and was executed on 2021-06-24
+-- Stat: 381862880 has a status of IN_PROGRESS and was executed on 2021-07-04
+
+Data stream id: 3970635
+-- Stat: 360412334 has a status of FAILURE and was executed on 2021-06-01
+-- Stat: 360918847 has a status of FAILURE and was executed on 2021-06-02
+-- Stat: 361433158 has a status of FAILURE and was executed on 2021-06-03
+-- Stat: 361953490 has a status of FAILURE and was executed on 2021-06-04
+-- Stat: 362473690 has a status of FAILURE and was executed on 2021-06-05
+-- Stat: 363018096 has a status of FAILURE and was executed on 2021-06-06
+-- Stat: 365311745 has a status of FAILURE and was executed on 2021-06-07
+-- Stat: 365701151 has a status of FAILURE and was executed on 2021-06-08
+-- Stat: 366269167 has a status of FAILURE and was executed on 2021-06-09
+-- Stat: 366269170 has a status of FAILURE and was executed on 2021-06-13
+-- Stat: 366830407 has a status of FAILURE and was executed on 2021-06-14
+-- Stat: 366830411 has a status of FAILURE and was executed on 2021-06-10
+-- Stat: 367391874 has a status of FAILURE and was executed on 2021-06-11
+-- Stat: 367391899 has a status of FAILURE and was executed on 2021-06-15
+-- Stat: 368482123 has a status of FAILURE and was executed on 2021-06-16
+-- Stat: 368811307 has a status of FAILURE and was executed on 2021-06-17
+-- Stat: 369124583 has a status of FAILURE and was executed on 2021-06-18
+-- Stat: 369404271 has a status of FAILURE and was executed on 2021-06-19
+-- Stat: 369409358 has a status of FAILURE and was executed on 2021-06-20
+-- Stat: 369688964 has a status of FAILURE and was executed on 2021-06-21
+-- Stat: 370915251 has a status of FAILURE and was executed on 2021-06-22
+-- Stat: 372671080 has a status of FAILURE and was executed on 2021-06-23
+-- Stat: 373249817 has a status of FAILURE and was executed on 2021-06-24
+-- Stat: 373864208 has a status of FAILURE and was executed on 2021-06-25
+-- Stat: 374495279 has a status of FAILURE and was executed on 2021-06-26
+-- Stat: 375103144 has a status of FAILURE and was executed on 2021-06-27
+-- Stat: 375709988 has a status of FAILURE and was executed on 2021-06-28
+-- Stat: 376264969 has a status of FAILURE and was executed on 2021-06-29
+-- Stat: 376855650 has a status of FAILURE and was executed on 2021-06-30
+-- Stat: 377470507 has a status of FAILURE and was executed on 2021-07-01
+-- Stat: 378154221 has a status of FAILURE and was executed on 2021-07-02
+-- Stat: 378790731 has a status of FAILURE and was executed on 2021-07-03
+-- Stat: 379398298 has a status of FAILURE and was executed on 2021-07-04
+-- Stat: 379989776 has a status of FAILURE and was executed on 2021-07-05
+-- Stat: 380553489 has a status of FAILURE and was executed on 2021-07-06
+-- Stat: 381152817 has a status of FAILURE and was executed on 2021-07-07
+-- Stat: 381777494 has a status of FAILURE and was executed on 2021-07-13
+-- Stat: 381777599 has a status of FAILURE and was executed on 2021-07-11
+-- Stat: 381777600 has a status of FAILURE and was executed on 2021-07-08
+-- Stat: 381777601 has a status of FAILURE and was executed on 2021-07-10
+
+Data stream id: 3968221
+-- Stat: 381816032 has a status of FAILURE and was executed on 2021-06-04
+-- Stat: 381816033 has a status of FAILURE and was executed on 2021-06-14
+-- Stat: 381816034 has a status of FAILURE and was executed on 2021-06-24
+-- Stat: 381816035 has a status of FAILURE and was executed on 2021-07-04
+
+Data stream id: 3968703
+
+Data stream id: 3968692
+
+Data stream id: 3968679
+
+Data stream id: 3968671
+
+Data stream id: 3968663
+
+Data stream id: 3968650
+
+Data stream id: 3968624
+
+Data stream id: 3968625
+
+Data stream id: 3968622
+
+Data stream id: 3968614
+
+Data stream id: 3968620
+
+Data stream id: 3968619
+
+Data stream id: 3968613
+
+Data stream id: 3968611
+
+Data stream id: 3968610
+
+Data stream id: 3968606
+
+Data stream id: 3968605
+
+Data stream id: 3968589
+
+Data stream id: 3968584
+
+Data stream id: 3968225
+-- Stat: 381816368 has a status of FAILURE and was executed on 2021-06-04
+-- Stat: 381816369 has a status of FAILURE and was executed on 2021-06-14
+-- Stat: 381816370 has a status of FAILURE and was executed on 2021-06-24
+-- Stat: 381816371 has a status of FAILURE and was executed on 2021-07-04
+
+Data stream id: 3968222
+
+Data stream id: 3968097
+
+Data stream id: 3967494
+
+Data stream id: 3967489
+
+Data stream id: 3959630
+
+Data stream id: 3959617
+
+Data stream id: 3959301
+
+Data stream id: 3959197
+
+Data stream id: 3959075
+
+Data stream id: 3958888
+
+Data stream id: 3958486
+
+Data stream id: 3958369
+
+Data stream id: 3958197
+-- Stat: 381839848 has a status of FAILURE and was executed on 2021-07-13
+
+Data stream id: 3971811
+
+Data stream id: 3971577
+
+Data stream id: 3971581
+
+Data stream id: 3971579
+
+Data stream id: 3971576
+
+Data stream id: 3971567
+
+Data stream id: 3971558
+
+Data stream id: 3971557
+
+Data stream id: 3971141
+
+Data stream id: 3971139
+
+Data stream id: 3971116
+
+Data stream id: 3971113
+
+Data stream id: 3971112
+
+Data stream id: 3971110
+
+Data stream id: 3971107
+
+Data stream id: 3971101
+
+Data stream id: 3971099
+
+Data stream id: 3971043
+
+Data stream id: 3971030
+
+Data stream id: 3971025
+
+Data stream id: 3971014
+
+Data stream id: 3970992
+
+Data stream id: 3970987
+
+Data stream id: 3970986
+
+Data stream id: 3970980
+
+Data stream id: 3970958
+
+Data stream id: 3970956
+
+Data stream id: 3970930
+
+Data stream id: 3970923
+
+Data stream id: 3970922
+
+Data stream id: 3970825
+
+Data stream id: 3970823
+
+Data stream id: 3970815
+-- Stat: 381869324 has a status of IN_PROGRESS and was executed on 2021-06-04
+-- Stat: 381869325 has a status of IN_PROGRESS and was executed on 2021-06-14
+-- Stat: 381869326 has a status of IN_PROGRESS and was executed on 2021-06-24
+-- Stat: 381869327 has a status of IN_PROGRESS and was executed on 2021-07-04
+
+Data stream id: 3970807
+-- Stat: 381862676 has a status of FAILURE and was executed on 2021-06-04
+-- Stat: 381862677 has a status of FAILURE and was executed on 2021-06-14
+-- Stat: 381862678 has a status of FAILURE and was executed on 2021-06-24
+-- Stat: 381862679 has a status of FAILURE and was executed on 2021-07-04
+
+Data stream id: 3970738
+
+Data stream id: 3970777
+
+Data stream id: 3970774
+
+Data stream id: 3970768
+
+Data stream id: 3970764
+-- Stat: 369409376 has a status of FAILURE and was executed on 2021-06-14
+-- Stat: 369409377 has a status of FAILURE and was executed on 2021-06-13
+-- Stat: 369409436 has a status of FAILURE and was executed on 2021-06-16
+-- Stat: 369419597 has a status of FAILURE and was executed on 2021-06-22
+-- Stat: 381980762 has a status of PENDING and was executed on 2021-07-13
+
+Data stream id: 3970756
+-- Stat: 381869080 has a status of IN_PROGRESS and was executed on 2021-06-04
+-- Stat: 381869081 has a status of IN_PROGRESS and was executed on 2021-06-14
+-- Stat: 381869082 has a status of IN_PROGRESS and was executed on 2021-06-24
+-- Stat: 381869083 has a status of IN_PROGRESS and was executed on 2021-07-04
+
+Data stream id: 3970755
+-- Stat: 381868788 has a status of FAILURE and was executed on 2021-06-04
+-- Stat: 381868789 has a status of IN_PROGRESS and was executed on 2021-06-14
+-- Stat: 381868790 has a status of FAILURE and was executed on 2021-06-24
+-- Stat: 381868791 has a status of FAILURE and was executed on 2021-07-04
+
+Data stream id: 3970749
+
+Data stream id: 3970745
+
+Data stream id: 3970739
+
+Data stream id: 3970736
+Job finished
