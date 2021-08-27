@@ -54,8 +54,9 @@ def errorHandler(req, widget_to_find, workspace_id):
         print("\nStatus code: " + str(req.status_code))
         print('\nJob failed:')
         print('─────────────────────\n')
-        res = json.loads(req)
-        print('¯\_(ツ)_/¯ \n'+res["errors"])
+        res = req.json()
+        print('¯\_(ツ)_/¯')
+        print(res)
 
     print('─────────────────────\n')
     print('Job Completed, searched {count} widgets\n'.format(count=widget_counter))

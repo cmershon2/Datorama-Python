@@ -55,8 +55,9 @@ def errorHandler(req):
                 print("{s} | Run Stat: {cs}{rs}{ce} | Stat: {cs}{ss}{ce}".format(s=s["id"], rs=s["runStatus"], ss=s["status"], cs=CGREEN, ce=CEND))
     else:
         print('\nJob failed:')
-        res = json.loads(req)
-        print('¯\_(ツ)_/¯ '+res["errors"])
+        res = req.json()
+        print('¯\_(ツ)_/¯')
+        print(res)
 
 #*******************************************************************
 # 

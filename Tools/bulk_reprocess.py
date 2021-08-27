@@ -44,8 +44,9 @@ def errorHandler(req):
         print("\nStatus code: " + str(req.status_code))
         print('\nJob failed:')
         print('─────────────────────\n')
-        res = json.loads(req)
-        print('¯\_(ツ)_/¯ \n'+res["errors"])
+        res = req.json()
+        print('¯\_(ツ)_/¯')
+        print(res)
 
 #*******************************************************************
 # 
