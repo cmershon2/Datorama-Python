@@ -1,7 +1,38 @@
+#*******************************************************************
+# bulk_stream_status.py
+# Created On:   August 23rd, 2021
+# Created By:   Casey Mershon
+# Version: 0.1
+#
+# The bulk_stream_status.py script will output the stream's id, it's
+# run status, and if the stream is enabled/disabled. This script 
+# requires a user session token (can be retrieved from the profile 
+# settings in Datoram), the start date, the end date, the platform 
+# (ie. us1, eu1), and a comma seperated list of of data stream ids.
+# The list of stream ids will need to be added into main() function.
+#*******************************************************************
+# Dependancies:
+#   - pip install requests
+#   ---- https://pypi.org/project/requests/
+#   (JSON import is a built-in module)
+#*******************************************************************
+# Available script functions:
+#   - def main()
+#   - def errorHandler(req)
+#*******************************************************************
+
 import requests
 import json
 
-#check req response then print correct output
+#*******************************************************************
+# 
+# errorHandler(req)
+#
+# This function is responsible for outputing the response from the 
+# API call. This will inform users if the API call was successful or
+# if the failed. Additionally, the full responce will be output.
+#
+#*******************************************************************
 def errorHandler(req):
     print('─────────────────────')
     if req.status_code==200:
@@ -27,6 +58,17 @@ def errorHandler(req):
         res = json.loads(req)
         print('¯\_(ツ)_/¯ '+res["errors"])
 
+#*******************************************************************
+# 
+# main()
+#
+# This function is responsible for gathering input from command line
+# for the token, start date, end date, and platform. The streams will
+# need to be manually entered in the script and saved. After inputs 
+# are collected, the requests are sent to the proper platform. Once
+# a response is returned, it is sent to the errorHandler function.
+#
+#*******************************************************************
 def main():
     token = input("\nEnter user token: ")
     workspace = input("\nEnter Workspace Id: ")
@@ -61,6 +103,13 @@ def main():
         req = requests.get('https://app-eu2.datorama.com/v1/workspaces/{ws}/data-streams/status/bulk?ids={streamList}'.format(ws=workspace, streamList=sList), headers=headers, data=body)
         errorHandler(req)
 
-
+#*******************************************************************
+# 
+# Simple guard clause to check if script is being ran by itself or 
+# if the script is being imported to a seperate script. This ensures
+# the main() function is not ran by default when importing it to an
+# external scipt.
+#
+#*******************************************************************
 if __name__ == "__main__":
     main()

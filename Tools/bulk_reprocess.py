@@ -1,20 +1,63 @@
+#*******************************************************************
+# bulk_reprocess.py
+# Created On:   July 13th, 2021
+# Created By:   Casey Mershon
+# Version: 0.1
+#
+# The bulk_reprocess.py script will reprocess a given array of data
+# stream ids. This script requires a user session token (can be
+# retrieved from the profile settings in Datoram), the start date,
+# the end date, the platform (ie. us1, eu1), and a comma seperated
+# list of of data stream ids. The list of stream ids will need to 
+# be added into main() function.
+#*******************************************************************
+# Dependancies:
+#   - pip install requests
+#   ---- https://pypi.org/project/requests/
+#   (JSON import is a built-in module)
+#*******************************************************************
+# Available script functions:
+#   - def main()
+#   - def errorHandler(req)
+#*******************************************************************
+
 import requests
 import json
 
-#check req response then print correct output
+#*******************************************************************
+# 
+# errorHandler(req)
+#
+# This function is responsible for outputing the response from the 
+# API call. This will inform users if the API call was successful or
+# if the failed. Additionally, the full responce will be output.
+#
+#*******************************************************************
 def errorHandler(req):
     print('─────────────────────')
     if req.status_code==200:
         print("\nStatus code: " + str(req.status_code))
-        print('\nProcessing Started')
-        print('─────────────────────')
+        print('\nJob Started')
+        print('─────────────────────\n')
         print(req.content)
     else:
+        print("\nStatus code: " + str(req.status_code))
         print('\nJob failed:')
+        print('─────────────────────\n')
         res = json.loads(req)
-        print('¯\_(ツ)_/¯ '+res["errors"])
+        print('¯\_(ツ)_/¯ \n'+res["errors"])
 
-#main function
+#*******************************************************************
+# 
+# main()
+#
+# This function is responsible for gathering input from command line
+# for the token, start date, end date, and platform. The streams will
+# need to be manually entered in the script and saved. After inputs 
+# are collected, the requests are sent to the proper platform. Once
+# a response is returned, it is sent to the errorHandler function.
+#
+#*******************************************************************
 def main():
     #default variables
     token = input("Enter user token:")
@@ -40,7 +83,7 @@ def main():
         "create": False
     }
 
-    #check platfomr & send post request
+    #check platform & send post request
     if platform=='1':
         req = requests.post('https://app.datorama.com/v1/data-streams/process', headers=headers, json=body)
         errorHandler(req)
@@ -54,6 +97,13 @@ def main():
         req = requests.post('https://app-eu2.datorama.com/v1/data-streams/process', headers=headers, json=body)
         errorHandler(req)
 
-#used to check if script is being imported or ran directly
+#*******************************************************************
+# 
+# Simple guard clause to check if script is being ran by itself or 
+# if the script is being imported to a seperate script. This ensures
+# the main() function is not ran by default when importing it to an
+# external scipt.
+#
+#*******************************************************************
 if __name__ == '__main__':
     main()

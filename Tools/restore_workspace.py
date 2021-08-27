@@ -1,8 +1,8 @@
 import requests
 import json
 
-token= ""
-workspace_id=""
+token = input("Enter user token:")
+workspace_id= input("\nEnter workspace id:")
 
 headers= {'token':token}
 
