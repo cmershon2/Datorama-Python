@@ -1,3 +1,13 @@
+#*******************************************************************
+# wifi_passwords.py
+# Created On:   July 29th, 2021
+# Created By:   Casey Mershon
+# Version: 0.1
+#
+# This script will print a list of your saved wifi networks and their
+# associated passwords.
+#*******************************************************************
+
 import subprocess
 
 data = subprocess.check_output(['netsh','wlan','show','profiles']).decode('utf-8').split('\n')
