@@ -1,17 +1,6 @@
 import requests
 import json
 
-class bcolors:
-    HEADER = '\033[95m'
-    OKBLUE = '\033[94m'
-    OKCYAN = '\033[96m'
-    OKGREEN = '\033[92m'
-    WARNING = '\033[93m'
-    FAIL = '\033[91m'
-    ENDC = '\033[0m'
-    BOLD = '\033[1m'
-    UNDERLINE = '\033[4m'
-
 #check req response then print correct output
 def errorHandler(req):
     print('─────────────────────')
@@ -54,15 +43,6 @@ def main():
     })
     streams = [
         #enter stream list
-        57065,
-109248,
-93262,
-90579,
-97028,
-108407,
-93324,
-97031,
-90575
     ]
     #combine streams into comma seperated string
     sList = ",".join([str(element) for element in streams])
